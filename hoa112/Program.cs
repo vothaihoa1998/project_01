@@ -10,6 +10,8 @@ namespace hoa112
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Thai Hoa Vo");
+            Console.ReadLine();
         }
     }
 }
